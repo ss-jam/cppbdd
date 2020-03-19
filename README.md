@@ -117,7 +117,7 @@ FEATURE("BDD style unit tests with Google Test") {
         I_WANT("to add numbers together")
         AND("Greet people")
         SO_THAT("I can pay people appropriately")
-        AND("respect them")
+        AND("show them respect")
     }
 
     SCENARIO("Demonstrate simple core features") {
@@ -197,7 +197,3 @@ In the output you will see the number of tests disabled as usual.
 ```bash
   YOU HAVE 1 DISABLED TESTS
 ```
-
-* CppUnit
-
-Nothing yet
