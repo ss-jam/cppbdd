@@ -1,7 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Scott Sickles
-Derived from Copyright (c) 2017 Michael Valch - LICENSE-original.md
+Copyright (c) 2017 Michael Vlach
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
